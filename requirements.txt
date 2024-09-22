@@ -1,0 +1,10 @@
+GitPython
+radon 
+coverage
+openai
+google-generativeai
+anthropic
+astor
+astroid
+langchain
+pydantic
